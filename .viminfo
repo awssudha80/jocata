@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1656328453,,"wq!"
 :q!
 |2,0,1656326855,,"q!"
 
@@ -25,20 +27,30 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1656326855,"~/.git/COMMIT_EDITMSG"
-'1  1  0  ~/gs-maven/complete/src/main/java/hello/HelloWorld.java
-|4,49,1,0,1656323609,"~/gs-maven/complete/src/main/java/hello/HelloWorld.java"
-'2  177  0  ~/goljocata/gameoflife-web/pom.xml
-|4,50,177,0,1656323156,"~/goljocata/gameoflife-web/pom.xml"
+'0  1  0  ~/my-app/pom.xml
+|4,48,1,0,1656328453,"~/my-app/pom.xml"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1656326855,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/gs-maven/complete/src/main/java/hello/HelloWorld.java
+|4,50,1,0,1656323609,"~/gs-maven/complete/src/main/java/hello/HelloWorld.java"
+'3  177  0  ~/goljocata/gameoflife-web/pom.xml
+|4,51,177,0,1656323156,"~/goljocata/gameoflife-web/pom.xml"
 
 # Jumplist (newest first):
+-'  1  0  ~/my-app/pom.xml
+|4,39,1,0,1656328453,"~/my-app/pom.xml"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1656326855,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1656326855,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/gs-maven/complete/src/main/java/hello/HelloWorld.java
 |4,39,1,0,1656323609,"~/gs-maven/complete/src/main/java/hello/HelloWorld.java"
 -'  1  0  ~/gs-maven/complete/src/main/java/hello/HelloWorld.java
 |4,39,1,0,1656323609,"~/gs-maven/complete/src/main/java/hello/HelloWorld.java"
+-'  1  0  ~/gs-maven/complete/src/main/java/hello/HelloWorld.java
+|4,39,1,0,1656323609,"~/gs-maven/complete/src/main/java/hello/HelloWorld.java"
+-'  1  0  ~/gs-maven/complete/src/main/java/hello/HelloWorld.java
+|4,39,1,0,1656323609,"~/gs-maven/complete/src/main/java/hello/HelloWorld.java"
 -'  177  0  ~/goljocata/gameoflife-web/pom.xml
 |4,39,177,0,1656323156,"~/goljocata/gameoflife-web/pom.xml"
 -'  177  0  ~/goljocata/gameoflife-web/pom.xml
@@ -47,6 +59,22 @@
 |4,39,177,0,1656323156,"~/goljocata/gameoflife-web/pom.xml"
 -'  177  0  ~/goljocata/gameoflife-web/pom.xml
 |4,39,177,0,1656323156,"~/goljocata/gameoflife-web/pom.xml"
+-'  177  0  ~/goljocata/gameoflife-web/pom.xml
+|4,39,177,0,1656323156,"~/goljocata/gameoflife-web/pom.xml"
+-'  177  0  ~/goljocata/gameoflife-web/pom.xml
+|4,39,177,0,1656323156,"~/goljocata/gameoflife-web/pom.xml"
+-'  177  0  ~/goljocata/gameoflife-web/pom.xml
+|4,39,177,0,1656323156,"~/goljocata/gameoflife-web/pom.xml"
+-'  177  0  ~/goljocata/gameoflife-web/pom.xml
+|4,39,177,0,1656323156,"~/goljocata/gameoflife-web/pom.xml"
+-'  1  0  ~/goljocata/gameoflife-web/pom.xml
+|4,39,1,0,1656323134,"~/goljocata/gameoflife-web/pom.xml"
+-'  1  0  ~/goljocata/gameoflife-web/pom.xml
+|4,39,1,0,1656323134,"~/goljocata/gameoflife-web/pom.xml"
+-'  1  0  ~/goljocata/gameoflife-web/pom.xml
+|4,39,1,0,1656323134,"~/goljocata/gameoflife-web/pom.xml"
+-'  1  0  ~/goljocata/gameoflife-web/pom.xml
+|4,39,1,0,1656323134,"~/goljocata/gameoflife-web/pom.xml"
 -'  1  0  ~/goljocata/gameoflife-web/pom.xml
 |4,39,1,0,1656323134,"~/goljocata/gameoflife-web/pom.xml"
 -'  1  0  ~/goljocata/gameoflife-web/pom.xml
@@ -57,6 +85,13 @@
 |4,39,1,0,1656323134,"~/goljocata/gameoflife-web/pom.xml"
 
 # History of marks within files (newest to oldest):
+
+> ~/my-app/pom.xml
+	*	1656328451	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/.git/COMMIT_EDITMSG
 	*	1656326854	0
